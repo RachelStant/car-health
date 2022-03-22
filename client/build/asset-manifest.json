@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45e66f61.css",
+    "main.js": "/static/js/main.11cb4bb4.js",
+    "static/media/niceCar.jpg": "/static/media/niceCar.2bd0aac97e7dc28da2ae.jpg",
+    "index.html": "/index.html",
+    "main.45e66f61.css.map": "/static/css/main.45e66f61.css.map",
+    "main.11cb4bb4.js.map": "/static/js/main.11cb4bb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45e66f61.css",
+    "static/js/main.11cb4bb4.js"
+  ]
+}
